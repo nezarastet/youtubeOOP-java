@@ -19,5 +19,4 @@ public class Camry50 extends Camry30{
     }
 
 
-
 }
