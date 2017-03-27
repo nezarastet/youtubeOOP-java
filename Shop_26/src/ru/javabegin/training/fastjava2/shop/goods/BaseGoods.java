@@ -17,6 +17,7 @@ public class BaseGoods implements GoodsInterface {
     private String company;
 
 
+
     @Override
     public double getPrice() {
         return price;
